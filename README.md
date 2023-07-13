@@ -1,4 +1,4 @@
 # LogicLeapBot
-daBot
-
-what to write here?
+First experience coding Telegram bot.
+Small bot for onboarding new employees in some company.
+Minimum functions.
